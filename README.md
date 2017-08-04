@@ -11,5 +11,5 @@
 ```
 git clone https://github.com/mkhira2/bingo.git
 cd bingo
-open index.html
+npm install | yarn install
 ```
